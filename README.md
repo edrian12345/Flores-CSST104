@@ -1,4 +1,6 @@
-# Flores-CSST104
+# Edrian B. Flores-CSST104
+BSCS-IS-3A
+
 Welcome to Edrian's CSST104 Compilation
 
 Hello and welcome to my compilation of outputs for CSST104!
