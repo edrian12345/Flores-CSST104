@@ -8,4 +8,4 @@ I've put all of my outputs and compiled each and every single one here.
 
 
 # Exercises
-<a href="URL">Exer1 </a>
+<a href="Colab Notebooks/Exercises/3A-FLORES-EXER1.ipynb">Exer1 </a>
