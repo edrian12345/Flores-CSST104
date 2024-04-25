@@ -22,5 +22,5 @@ I've put all of my outputs and compiled each and every single one here.
 - <a href="Colab Notebooks/Activities/FloresEd-Analysis Report on Sales Data Act.ipynb">Act3: Analysis Report on Sales Data Act</a>
 
 # Midterm
-- <a href="Colab Notebooks/Midterm/3A- FLORES- MIDTERM.ipynb"> Midterm Exam </a>
+- <a href="Colab Notebooks/Midterm/3A- FLORES- MIDTERM.ipynb"> Midterm Exam: Time Series Analysis and Forecasting with ARIMA Model </a>
  
