@@ -19,4 +19,10 @@ I've put all of my outputs and compiled each and every single one here.
 
 
 # Activities
-- 
+- <a href="Colab Notebooks/Activities/FloresEd-Linear Regression Act.ipynb">Act1: Analysis Report on Sales Data Act</a>
+- <a href="Colab Notebooks/Activities/FloresEd_Multiple Linear Regression Act.ipynb">Act2: Multiple Linear Regression Act</a>
+- <a href="Colab Notebooks/Activities/FloresEd-Analysis Report on Sales Data Act.ipynb">Act3: Analysis Report on Sales Data Act</a>
+
+# Midterm
+- <a href="Colab Notebooks/Midterm/3A- FLORES- MIDTERM.ipynb"> Midterm Exam </a>
+ 
