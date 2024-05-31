@@ -23,4 +23,7 @@ I've put all of my outputs and compiled each and every single one here.
 
 # Midterm
 - <a href="Colab Notebooks/Midterm/3A- FLORES- MIDTERM.ipynb"> Midterm Exam: Time Series Analysis and Forecasting with ARIMA Model </a>
- 
+
+ # Finals
+ - <a href= "Finals/CSST104_08_IQ_Levels_Analysis.ipynb"> Finals: Colab Exam </a>
+  - <a href= "Finals/CSST104_FINALS_ANDRES-FLORES-PANTANOZA.pdf"> Finals: Document </a>
